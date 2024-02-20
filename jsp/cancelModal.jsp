@@ -1,4 +1,4 @@
-// 생성 취소
+<!-- 생성 취소 -->
 const cancelModal = document.querySelector('#cancelModal');
 
 if (cancelModal) {
